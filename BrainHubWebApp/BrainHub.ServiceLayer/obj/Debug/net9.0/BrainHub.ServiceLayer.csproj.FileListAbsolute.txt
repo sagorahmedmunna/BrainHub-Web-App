@@ -1,0 +1,357 @@
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Admin User [2]\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Employee User  [3]\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - user profile with role [4] testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - pagination [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - password matched check [5]\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Account Service [6] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\BrainHub - Create Role [7] - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[7] BrainHub - Create Role hard coded, without authorize\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - Create Role hard coded, with authorize - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[8] BrainHub - custom role FK of Employee - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - custom role FK of Employee  - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[9] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures - testing\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[10] BrainHub - Stored Procedures, need to add sql seed - Copy\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[11] BrainHub - Fixed BrainHub.ServiceLayer.Service\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI - test\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[12] BrainHub - upgraded UI\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.deps.json
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.DomainLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\bin\Debug\net9.0\BrainHub.RepositoryLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.AssemblyInfo.cs
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.CBA08986.Up2Date
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\obj\Debug\net9.0\refint\BrainHub.ServiceLayer.dll
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\obj\Debug\net9.0\BrainHub.ServiceLayer.pdb
+C:\Users\BS01601\Downloads\New Onion\[20] BrainHub - Final inMemory host\BrainHub.ServiceLayer\obj\Debug\net9.0\ref\BrainHub.ServiceLayer.dll

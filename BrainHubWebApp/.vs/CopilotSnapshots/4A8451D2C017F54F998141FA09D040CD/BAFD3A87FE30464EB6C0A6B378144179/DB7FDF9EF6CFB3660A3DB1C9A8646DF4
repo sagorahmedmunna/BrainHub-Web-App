@@ -1,0 +1,215 @@
+﻿using BrainHub.DomainLayer.Models;
+using BrainHub.RepositoryLayer.IRepositories;
+using BrainHub.ServiceLayer.IServices;
+using BrainHub.DomainLayer.ViewModels;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc.Rendering;
+
+namespace BrainHub.ServiceLayer.Services
+{
+    public class EmployeeService : IEmployeeService
+    {
+        private readonly IEmployeeRepository _employeeRepository;
+        private readonly ISbuService _sbuService;
+        private readonly ICustomRoleService _customRoleService;
+        private readonly UserManager<IdentityUser<int>> _userManager;
+
+        public EmployeeService(IEmployeeRepository employeeRepository, ISbuService sbuService, ICustomRoleService customRoleService, UserManager<IdentityUser<int>> userManager)
+        {
+            _employeeRepository = employeeRepository;
+            _sbuService = sbuService;
+            _customRoleService = customRoleService;
+            _userManager = userManager;
+        }
+
+        public IEnumerable<Employee> GetAll()
+        {
+            return _employeeRepository.GetAll(includeProperties: "Sbu,User,CustomRole");
+        }
+
+        public Employee GetById(int id)
+        {
+            return _employeeRepository.Get(x => x.Id == id, includeProperties: "Sbu,User,CustomRole")!;
+        }
+
+        public EmployeeVM GetByUserId(int id) // find by identity user id
+        {
+            var employee = _employeeRepository.Get(x => x.UserId == id, includeProperties: "Sbu,User,CustomRole");
+            if (employee == null)
+                return null!;
+
+            return GetEmployeeVM(employee.Id);
+        }
+
+        public (bool success, string error) Create(EmployeeVM employeeVM)
+        {
+            if (_employeeRepository.Get(x => x.Number == employeeVM.Employee.Number) != null)
+                return (false, "This umber already exists.");
+
+            var user = new IdentityUser<int>
+            {
+                UserName = employeeVM.Email,
+                Email = employeeVM.Email,
+                EmailConfirmed = true,
+                LockoutEnabled = false
+            };
+
+            var result = _userManager.CreateAsync(user, employeeVM.Password).Result;
+
+            if (!result.Succeeded)
+            {
+                return (false, "Email is already taken");
+            }
+
+            var roleResult = _userManager.AddToRoleAsync(user, employeeVM.Role).Result;
+
+
+            employeeVM.Employee.UserId = user.Id;
+            _employeeRepository.Add(employeeVM.Employee);
+
+            return (true, string.Empty);
+        }
+
+
+        public (bool success, string error) Update(EmployeeVM employeeVM)
+        {
+            var existingNumber = _employeeRepository.Get(x => x.Number == employeeVM.Employee.Number && x.Id != employeeVM.Employee.Id);
+            if (existingNumber != null)
+                return (false, "This Number already exists.");
+
+            var existingEmployee = GetById(employeeVM.Employee.Id);
+
+            if (existingEmployee == null)
+                return (false, "");
+
+            existingEmployee.Name = employeeVM.Employee.Name;
+            existingEmployee.Number = employeeVM.Employee.Number;
+            existingEmployee.SbuId = employeeVM.Employee.SbuId;
+            existingEmployee.CustomRoleId = employeeVM.Employee.CustomRoleId;
+
+            var user = _userManager.FindByIdAsync(existingEmployee.UserId.ToString()!).Result;
+
+            if (user == null)
+                return (false, "");
+
+            user.UserName = employeeVM.Email;
+            user.Email = employeeVM.Email;
+
+            var updateResult = _userManager.UpdateAsync(user).Result;
+
+            if (!updateResult.Succeeded)
+                return (false, "Email is already taken");
+
+            _userManager.SetLockoutEnabledAsync(user, false).Wait();
+
+            // Update password if provided
+            if (!string.IsNullOrEmpty(employeeVM.Password))
+            {
+                var token = _userManager.GeneratePasswordResetTokenAsync(user).Result;
+                var passwordResult = _userManager.ResetPasswordAsync(user, token, employeeVM.Password).Result;
+
+                if (!passwordResult.Succeeded)
+                    return (false, "");
+            }
+
+            if (!string.IsNullOrEmpty(employeeVM.Role))
+            {
+                // Get current roles
+                var currentRoles = _userManager.GetRolesAsync(user).Result;
+
+                // Remove all current roles
+                if (currentRoles.Any())
+                    _userManager.RemoveFromRolesAsync(user, currentRoles).Wait();
+
+                // Add the selected role
+                _userManager.AddToRoleAsync(user, employeeVM.Role).Wait();
+            }
+
+            _employeeRepository.Update(existingEmployee);
+            return (true, string.Empty);
+        }
+
+        public void Delete(int id)
+        {
+            var employee = GetById(id);
+
+            if (employee == null)
+                return;
+
+            // Delete the Identity User first
+            if (employee.UserId.HasValue && employee.UserId.Value > 0)
+            {
+                var user = _userManager.FindByIdAsync(employee.UserId.Value.ToString()!).Result;
+                if (user != null)
+                {
+                    _userManager.DeleteAsync(user).Wait();
+                }
+            }
+            _employeeRepository.Delete(id);
+        }
+
+        public IEnumerable<SelectListItem> GetSbuList()
+        {
+            return _sbuService.GetAll().Select(u => new SelectListItem
+            {
+                Text = u.Name,
+                Value = u.Id.ToString()
+            }).ToList();
+        }
+
+        public IEnumerable<SelectListItem> GetCustomRoleList()
+        {
+            var roles = _customRoleService.GetAllRoles();
+
+            if (roles == null)
+                return new List<SelectListItem>();
+
+            return roles.Select(u => new SelectListItem
+            {
+                Text = u.Name,
+                Value = u.Id.ToString()
+            }).ToList();
+        }
+
+        public EmployeeVM GetEmployeeVM(int? id = null)
+        {
+            Employee? employee = null;
+            string email = string.Empty;
+            string employeeRole = string.Empty;
+
+            if (id.HasValue)
+            {
+                employee = GetById(id.Value);
+
+                if (employee?.UserId != null)
+                {
+                    var user = _userManager.FindByIdAsync(employee.UserId.Value.ToString()).Result;
+                    if (user != null)
+                    {
+                        email = user.Email ?? string.Empty;
+                        var roles = _userManager.GetRolesAsync(user).Result;
+                        employeeRole = string.Join(", ", roles);
+                    }
+                }
+            }
+            return new EmployeeVM
+            {
+                Employee = employee ?? new Employee { Name = string.Empty },
+                SbuList = GetSbuList(),
+                CustomRoleList = GetCustomRoleList(),
+                Email = email,
+                Password = string.Empty,
+                Role = employeeRole
+            };
+        }
+
+        public IEnumerable<EmployeeVM> GetAllEmployeeVMs()
+        {
+            var employees = GetAll();
+            var list = new List<EmployeeVM>();
+            foreach (var emp in employees)
+                list.Add(GetEmployeeVM(emp.Id));
+            return list;
+        }
+    }
+}
