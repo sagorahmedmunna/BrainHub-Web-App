@@ -16,6 +16,22 @@ This project is hosted on **[Render.com](https://render.com/)** and currently us
 
 ---
 
+## 🔑 Login Credentials
+
+To explore the app, you can use the following accounts:
+
+### Admin Access
+- **Email:** admin@brainhub.com  
+- **Password:** admin123  
+
+### User Access
+- **Email:** user@brainhub.com  
+- **Password:** employee123  
+
+> Admin users have full access, while normal users have limited permissions according to their role.
+
+---
+
 ## 🐳 Docker
 
 You can run this app as a Docker container:
