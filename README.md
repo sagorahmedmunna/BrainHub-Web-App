@@ -1,6 +1,9 @@
 # BrainHub-Web-App
 
-[Live Demo](https://brainhubwebapp.onrender.com/) | [Docker Image](https://hub.docker.com/r/sagorahmedmunnabs23/brainhubwebapp)
+## 🚀 Live Demo
+
+Check the live application here:  
+[https://brainhubwebapp.onrender.com/](https://brainhubwebapp.onrender.com/)
 
 ---
 
@@ -10,13 +13,6 @@
 It demonstrates concepts including **custom authentication, authorization, database integration**, and **containerized deployment** using Docker.  
 
 This project is hosted on **[Render.com](https://render.com/)** and currently uses an **in-memory database** for demonstration purposes.
-
----
-
-## 🚀 Live Demo
-
-Check the live application here:  
-[https://brainhubwebapp.onrender.com/](https://brainhubwebapp.onrender.com/)
 
 ---
 
