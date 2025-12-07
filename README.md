@@ -9,8 +9,8 @@ Check the live application here:
 
 ## 🌟 Overview
 
-**BrainHub-Web-App** is a modern web application built with **.NET Core MVC** following the **Onion Architecture**.  
-It demonstrates concepts including **custom authentication, authorization, database integration**, and **containerized deployment** using Docker.  
+**BrainHub-Web-App** is a modern web application built with **.NET Core MVC** following the **Layer Architecture**.  
+It demonstrates concepts including **custom authentication, authorization, Role-Based Access, database integration**, and **containerized deployment** using Docker.  
 
 This project is hosted on **[Render.com](https://render.com/)** and currently uses an **in-memory database** for demonstration purposes.
 
